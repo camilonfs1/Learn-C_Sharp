@@ -15,14 +15,25 @@ namespace First_Software
             double sumd = d1 + d2;
 
             Console.WriteLine("La suma de " + num1 + " + " + num2 + " da como resultado: " + sum);
-            Console.WriteLine("La suma de " + d1 + " + " + d2 + " da como resultado: " + sumd);*/
+            Console.WriteLine("La suma de " + d1 + " + " + d2 + " da como resultado: " + sumd);
 
             string nombre = "Camilo";
             string mensaje = "Mensaje numero 1 es ";
 
             string mensmay = mensaje.ToUpper();//Todo en mayuscula
 
-            Console.WriteLine(mensmay + nombre);           
+            Console.WriteLine(mensmay + nombre); */
+
+            string miString = "15";
+            string misegundoString = "10";
+
+
+            int num1 = Int32.Parse(miString);
+            int num2 = Int32.Parse(misegundoString);
+            int sum = num1 + num2;
+
+
+            Console.WriteLine("La suma de " + num1 + " + " + num2 + " da como resultado: " + sum);
             Console.Read();
         }
     }
