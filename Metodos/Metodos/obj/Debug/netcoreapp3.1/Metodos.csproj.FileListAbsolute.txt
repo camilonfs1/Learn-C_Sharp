@@ -1,0 +1,13 @@
+C:\Users\pc1\Documents\C#\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.exe
+C:\Users\pc1\Documents\C#\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.deps.json
+C:\Users\pc1\Documents\C#\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.runtimeconfig.json
+C:\Users\pc1\Documents\C#\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.runtimeconfig.dev.json
+C:\Users\pc1\Documents\C#\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.dll
+C:\Users\pc1\Documents\C#\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.pdb
+C:\Users\pc1\Documents\C#\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.csprojAssemblyReference.cache
+C:\Users\pc1\Documents\C#\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.AssemblyInfoInputs.cache
+C:\Users\pc1\Documents\C#\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.AssemblyInfo.cs
+C:\Users\pc1\Documents\C#\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.csproj.CoreCompileInputs.cache
+C:\Users\pc1\Documents\C#\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.dll
+C:\Users\pc1\Documents\C#\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.pdb
+C:\Users\pc1\Documents\C#\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.genruntimeconfig.cache
