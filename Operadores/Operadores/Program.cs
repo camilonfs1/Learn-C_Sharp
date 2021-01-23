@@ -6,7 +6,7 @@ namespace Operadores
     {
         static void Main(string[] args)
         {
-            int num1 = -5;
+            int num1 = 5;
             int num2 = 3;
             int num3;
 
@@ -23,8 +23,61 @@ namespace Operadores
             num++;
             Console.WriteLine("Num = {0} ", num);
 
+            //Operadores de sustraccion
+
+            num--;
+            Console.WriteLine("Num = {0}", num);
+            Console.WriteLine("Num = {0}", --num);
+            Console.WriteLine("Num = {0}", num);
 
 
+            //operadores matematicos
+
+            int resutlado = num1 + num2;
+            Console.WriteLine("El resultado " + num1 + " + " + num2 + " es igual a " + resutlado);
+            resutlado = num1 - num2;
+            Console.WriteLine("El resultado " + num1 + " - " + num2 + " es igual a " + resutlado);
+            resutlado = num1 * num2;
+            Console.WriteLine("El resultado " + num1 + " * " + num2 + " es igual a " + resutlado);
+            resutlado = num1 / num2;
+            Console.WriteLine("El resultado " + num1 + " / " + num2 + " es igual a " + resutlado);
+            
+            //operador modular          
+            
+            resutlado = num1 % num2;  //solo muestra el resto
+            Console.WriteLine("El resultado " + num1 + " mod " + num2 + " es igual a " + resutlado);
+
+            //operadores relacionales
+
+            bool esMenor;
+            esMenor = num1 < num2;
+
+            Console.WriteLine("El resultado " + num1 + " < " + num2 + " es igual a " + esMenor);
+
+
+            //operadores de igualdad
+
+            bool esIgual;
+            esIgual = num1 == num2;
+            Console.WriteLine("El resultado " + num1 + " == " + num2 + " es igual a " + esIgual);
+
+            esIgual = num1 != num2;
+            Console.WriteLine("El resultado " + num1 + " != " + num2 + " es igual a " + esIgual);
+
+
+
+            if (true)
+            {
+
+            }
+            else if(true)
+            {
+
+            }
+            else
+            {
+
+            }
         }
     }
 }
